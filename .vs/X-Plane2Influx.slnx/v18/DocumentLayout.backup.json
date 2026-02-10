@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|c:\\users\\marcelo\\source\\repos\\x-plane2influx\\x-plane2influx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|solutionrelative:x-plane2influx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\x-plane2influx\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|solutionrelative:x-plane2influx\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\x-plane2influx\\influxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|solutionrelative:x-plane2influx\\influxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\x-plane2influx\\getip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47FA230-4ACE-4DA3-9717-565E1ABC7B18}|X-Plane2Influx\\X-Plane2Influx.csproj|solutionrelative:x-plane2influx\\getip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetIp.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\GetIp.cs",
+              "RelativeDocumentMoniker": "X-Plane2Influx\\GetIp.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\GetIp.cs",
+              "RelativeToolTip": "X-Plane2Influx\\GetIp.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T20:11:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\Airplane.cs",
+              "RelativeDocumentMoniker": "X-Plane2Influx\\Airplane.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\Airplane.cs",
+              "RelativeToolTip": "X-Plane2Influx\\Airplane.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T21:28:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfluxLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\InfluxLayer.cs",
+              "RelativeDocumentMoniker": "X-Plane2Influx\\InfluxLayer.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\InfluxLayer.cs",
+              "RelativeToolTip": "X-Plane2Influx\\InfluxLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:14:02.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\Program.cs",
+              "RelativeDocumentMoniker": "X-Plane2Influx\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\source\\repos\\X-Plane2Influx\\X-Plane2Influx\\Program.cs",
+              "RelativeToolTip": "X-Plane2Influx\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:24:38.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
