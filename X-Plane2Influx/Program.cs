@@ -16,6 +16,20 @@ using System.Xml.Linq;
  * 
  *  Developed using Visual Studio 2026 Version: 18.1.1 / .NET 4.8.09221
  * 
+ *  X-Plane 11 configuration:
+ *      Menu Data Output : Network via UDP -> Selected items: 
+ *        Descruption           | Index
+ *        Speed..........       3 
+ *        Coordinates....       20
+ *        pitch rool headg..    17
+ *        engine RPM.....       37
+ *        Climb Stats (VSpeed)  132
+ *        Yaw(Slip)......       18
+ *        
+ *  and click on "Send Network Data Output" to enable it and configure IP Address of machine that will receive (may be localhost or other machine on network)
+ *        
+ *        
+ *        
  *  Please don´t use this code in production, this is only a PoC (Proof of Concept) and is provided "as is"
  *  and is licenced under MIT License:
 
