@@ -36,7 +36,7 @@ namespace X_Plane2Influx
             {
                 lastDbTryConnect = DateTime.Now;
 
-                influxDbClient = new InfluxDbClient("http://50.116.25.59:8086", "CSBlueCode", "[Bearcat]_1456", InfluxDbVersion.v_1_3);
+                influxDbClient = new InfluxDbClient("http://marcelocampos.dev.br:8086", "CSBlueCode", Environment.GetEnvironmentVariable("InfluxDbPass", EnvironmentVariableTarget.User) , InfluxDbVersion.v_1_3);
 
                 if (influxDbClient != null)
                 {
