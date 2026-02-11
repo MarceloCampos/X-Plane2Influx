@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "X-Plane2Influx\\Program.cs",
               "ToolTip": "C:\\!WorksNote\\C#\\X-Plane2Influx\\X-Plane2Influx\\Program.cs",
               "RelativeToolTip": "X-Plane2Influx\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T13:24:38.186Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "X-Plane2Influx\\GetIp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T20:11:09.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T20:11:09.787Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "X-Plane2Influx\\Airplane.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA5wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T21:28:56.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T21:28:56.675Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "X-Plane2Influx\\InfluxLayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T19:14:02.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T19:14:02.444Z"
             }
           ]
         }

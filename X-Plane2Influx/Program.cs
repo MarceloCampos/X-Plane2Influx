@@ -12,8 +12,11 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 /*
  *  by Marcelo Campos
- *  Ver. 0.01   - Feb 2026
- * 
+ *  Ver. 0.01 - Feb 2026
+ *  
+ *  Git:  https://github.com/MarceloCampos/
+ *  Blog: https://marcelocampos.dev.br/
+ *  
  *  Developed using Visual Studio 2026 Version: 18.1.1 / .NET 4.8.09221
  * 
  *  X-Plane 11 configuration:
